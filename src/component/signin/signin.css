@@ -1,0 +1,31 @@
+.neo-back-main{ 
+    border-radius: 15px;
+background: transparent;
+box-shadow:  6px 6px 12px #1c333b,
+-6px -6px 12px #24414b;
+             align-self: center;
+}
+
+.neo-back {
+    border-radius: 10px;
+background: #203a43;
+box-shadow: inset 5px 5px 10px #1b3139,
+            inset -5px -5px 10px #25434d;
+            border: none;
+}
+
+.neo-back:hover {
+    background-color: none;
+}
+
+.neo-back:focus{
+    border: none;
+}
+
+.neo-back-button {
+    border-radius: 10px;
+    background: #203a43;
+    box-shadow:  5px 5px 10px #1e363e,
+                 -5px -5px 10px #223e48;
+}
+
